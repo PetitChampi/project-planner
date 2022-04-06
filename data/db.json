@@ -8,9 +8,15 @@
     },
     {
       "id": 2,
-      "title": "Make marketing email",
+      "title": "Send marketing email",
       "details": "lorem ipsum",
-      "complete": true
+      "complete": false
+    },
+    {
+      "id": 3,
+      "title": "Praise the pasta monster",
+      "details": "lorem ipsum",
+      "complete": false
     }
   ]
 }
