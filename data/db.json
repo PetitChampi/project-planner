@@ -16,7 +16,7 @@
       "id": 3,
       "title": "Praise the pasta monster",
       "details": "lorem ipsum",
-      "complete": false
+      "complete": true
     }
   ]
 }
