@@ -10,7 +10,7 @@
       "id": 2,
       "title": "Send marketing email AGAIN",
       "details": "lorem ipsum yyooooo",
-      "complete": false
+      "complete": true
     },
     {
       "id": 3,
